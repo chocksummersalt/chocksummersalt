@@ -1,5 +1,10 @@
 ## Hi there 👋
-
+<div>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=NICE%20TO%20MEET%20YOU%20%F0%9F%A4%97)
+</div>
+<div>
+[![sungmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=chocksummersalt)](https://github.com/chocksummersalt/github-readme-stats)
+</div>
 <!--
 **chocksummersalt/chocksummersalt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

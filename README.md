@@ -10,7 +10,7 @@
   ## 👀 About Me
   #### :raising_hand: I am a app developer from South Korea.<br/>
   #### :fire: I aim to become a data scientist.<br/>
-  #### :mortar_board: completion of Applied Artificial Intelligence Software, Polytech jungsu campus
+  #### :mortar_board: Completion of Artificial Intelligence Software, Polytech jungsu campus
   <br/>
   <br/>
 

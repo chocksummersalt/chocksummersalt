@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi im sungmin! 👋
 <div>
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=NICE%20TO%20MEET%20YOU%20%F0%9F%A4%97)

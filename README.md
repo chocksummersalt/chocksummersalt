@@ -7,10 +7,11 @@
  <!--Body-->
  
 <div>
-  ## 👀 About Me
-  #### :raising_hand: I am a app developer from South Korea.<br/>
-  #### :fire: I aim to become a data scientist.<br/>
-  #### :mortar_board: Completion of Artificial Intelligence Software, Polytech jungsu campus
+ <h1> ## 👀 About Me</h1>
+ <h3> #### :raising_hand: I am - want to be - a app- developer from South Korea.</h3><br/>
+  <h3> #### :fire: I aim to become a data scientist.</h3><br/>
+  <h3> #### :mortar_board: Completion of Artificial Intelligence Software, Polytech Jungsu Campus</h3><br>
+  <h3> #### 🏃‍♂️ : Parable entertainment 2019 ~ 2021 as Creator Manager & Public Project Manager</h3>
   <br/>
   <br/>
 

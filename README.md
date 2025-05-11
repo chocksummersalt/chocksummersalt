@@ -11,8 +11,15 @@
  <h3> #### :raising_hand: I am - want to be - a app- developer from South Korea.</h3><br/>
   <h3> #### :fire: I aim to become a data scientist.</h3><br/>
   <h3> #### :mortar_board: Completion of Artificial Intelligence Software, Polytech Jungsu Campus</h3><br>
-  <h3> #### 🏃‍♂️ : Parable entertainment 2019 ~ 2021 as Creator Manager & Public Project Manager</h3>
-  <br/>
+  <hr>
+  <hr>
+  <h2>##🏃‍♂️ Personal Record </h2>
+  <h3> #### :2019 ~ 2021 - Work in Parable entertainment as Creator Manager & Public Project Manager</h3>
+  <h3> #### : 2017 ~ 2019 - Served and discharged from ROKA Ground Operations Command as signalman, Sergeant </h3>
+  <h3> #### : 2015 ~ 2016 - Director of Policy, College of Humanities in Sukyung Univ. </h3>
+  <h3> #### : 2014 ~ 2017 - starting member of CHzbk(former name of Parable ENT) as Community Manager, Writer </h3>
+  <h3> #### : 2010 ~ 2011 - EBS JangHak Quiz champion</h3>
+  <br/> 
   <br/>
 
   

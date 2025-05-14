@@ -7,18 +7,67 @@
  <!--Body-->
  
 <div>
- <h1> ## 👀 About Me</h1>
- <h3> #### :raising_hand: I am - want to be - a app- developer from South Korea.</h3><br/>
-  <h3> #### :fire: I aim to become a data scientist.</h3><br/>
-  <h3> #### :mortar_board: Completion of Artificial Intelligence Software, Polytech Jungsu Campus</h3><br>
-  <hr>
-  <hr>
-  <h2>##🏃‍♂️ Personal Record </h2>
-  <h3> #### :2019 ~ 2021 - Work in Parable entertainment as Creator Manager & Public Project Manager</h3>
-  <h3> #### : 2017 ~ 2019 - Served and discharged from ROKA Ground Operations Command as signalman, Sergeant </h3>
-  <h3> #### : 2015 ~ 2016 - Director of Policy, College of Humanities in Sukyung Univ. </h3>
-  <h3> #### : 2014 ~ 2017 - starting member of CHzbk(former name of Parable ENT) as Community Manager, Writer </h3>
-  <h3> #### : 2010 ~ 2011 - EBS JangHak Quiz champion</h3>
+## 👀 About Me
+
+- 🙋 I want to be an **App Developer** from South Korea.  
+- 🔥 I aim to become a **Data Scientist**.  
+- 🎓 Completed **Artificial Intelligence Software Program**, Korea Polytechnics (Jungsu Campus)  
+
+---
+
+## 🎓 Education
+
+- **2014 ~ 2016, 2023 ~ 2024**  
+  🎨 Bachelor of Art in **Cultural Contents**, SuKyung University  
+  📚 Bachelor of Art in **Philosophy**, SuKyung University
+
+- **2024**  
+  🤖 Completion of **Artificial Intelligence Software** Program  
+  Korea Polytechnics, Jungsu Campus
+
+---
+
+## 💼 Work Experience
+
+- **2022 ~ 2023**  
+  🏨 responsible for operations and team supervision at **Yaja Hotel**,
+
+- **2019 ~ 2021**  
+  👥 Creator Manager & Project Manager at **Parable Entertainment**
+  - 🧩 Led government-funded projects as a project manager
+  -  Recruited and managed creators for MCN operations
+  -  Provided content consulting and strategic product planning
+  -  Launched brand merchandise aligned with creator growth stages
+  -  Organized and executed offline/online promotional events
+
+
+- **2014 ~ 2017**  
+  ✍️ Starting member of **CHzbk** (former name of Parable ENT)  
+  - 📣 Operated a Facebook page with **120,000+ followers**  
+  - Led content planning, campaign execution, and creator outreach  
+  - Managed public projects and online community engagement
+
+---
+
+## 🏃‍♂️ Personal Record
+
+- **2017 ~ 2019**  
+  🎖️ Served in **ROKA Ground Operations Command** as a **Signalman, Sergeant**
+
+- **2015 ~ 2016**  
+  🎓 Director of Policy, **College of Humanities**, SuKyung University
+
+- **2010 ~ 2011**  
+  🧠 **EBS JangHak Quiz Champion**
+
+---
+
+## 🛠️ Skills and Certifications
+
+- 💬 TOEIC 810  
+- 🏺 Korean History Proficiency Test Level 2
+
+---
   <br/> 
   <br/>
 

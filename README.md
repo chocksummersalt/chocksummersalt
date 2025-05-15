@@ -15,7 +15,7 @@
 ---
 
 🎓 Education / 학력
-2014 ~ 2016, 2022 ~ 2024
+<br>2014 ~ 2016, 2022 ~ 2024
 - 🎨 Bachelor of Arts in Cultural Contents, SeoKyung University
 - 📚 Bachelor of Arts in Philosophy, SeoKyung University
 - 🎨 서경대학교 문화콘텐츠학과 학사

@@ -121,20 +121,21 @@
 
 - **2017 ~ 2019**  
   🎖️ Served in **ROKA Ground Operations Command** as a **Signalman, Sergeant**
-
+- 육군 지상작전사령부 소속 무선통신병 만기전역
 - **2015 ~ 2016**  
   🎓 Director of Policy, **College of Humanities**, SeoKyung University
-
+서경대학교 인문대 정책국장
 - **2010 ~ 2011**  
   🧠 **EBS JangHak Quiz Champion**
-
+EBS 장학퀴즈 우승
 ---
 
 ## 🛠️ Skills and Certifications
 
-- 💬 TOEIC 810  
+- 💬 TOEIC 810
+- 토익 810
 - 🏺 Korean History Proficiency Test Level 2
-
+- 한국사능력검정평가 2급
 ---
   <br/> 
   <br/>

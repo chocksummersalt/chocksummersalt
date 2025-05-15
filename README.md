@@ -121,7 +121,7 @@
 
 - **2017 ~ 2019**  
   🎖️ Served in **ROKA Ground Operations Command** as a **Signalman, Sergeant**
-  / 육군 지상작전사령부 소속 무선통신병 만기전역
+  / 육군 지상작전사령부 소속 무선통신병 병장 만기전역
 - **2015 ~ 2016**  
   🎓 Director of Policy, **College of Humanities**, SeoKyung University
 / 서경대학교 인문대 정책국장

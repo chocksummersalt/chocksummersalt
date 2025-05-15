@@ -11,7 +11,6 @@
 
 - 🙋 I want to be an **App Developer** from South Korea.  
 - 🔥 I aim to become a **Data Scientist**.  
-- 🎓 Completed **Artificial Intelligence Software Program**, Korea Polytechnics (Jungsu Campus)  
 
 ---
 
@@ -21,7 +20,7 @@
   🎨 Bachelor of Art in **Cultural Contents**, SuKyung University  
   📚 Bachelor of Art in **Philosophy**, SuKyung University
 
-- **2024**  
+- **2025**  
   🤖 Completion of **Artificial Intelligence Software** Program  
   Korea Polytechnics, Jungsu Campus
 

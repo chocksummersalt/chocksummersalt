@@ -23,7 +23,7 @@
 
 2025
 - 🤖 Completion of Artificial Intelligence Software Program, Korea Polytechnics (Jungsu Campus)
-- 🤖 한국폴리텍 수캠퍼스 인공지능소프트웨어과정 수료 예정
+- 🤖 한국폴리텍 정수캠퍼스 인공지능소프트웨어과정 수료 예정
 
 
 

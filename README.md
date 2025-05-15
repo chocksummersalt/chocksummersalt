@@ -17,7 +17,7 @@
 
 ## 🎓 Education
 
-- **2014 ~ 2016, 2023 ~ 2024**  
+- **2014 ~ 2016, 2022 ~ 2024**  
   🎨 Bachelor of Art in **Cultural Contents**, SuKyung University  
   📚 Bachelor of Art in **Philosophy**, SuKyung University
 

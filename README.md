@@ -54,7 +54,7 @@
   🎖️ Served in **ROKA Ground Operations Command** as a **Signalman, Sergeant**
 
 - **2015 ~ 2016**  
-  🎓 Director of Policy, **College of Humanities**, SuKyung University
+  🎓 Director of Policy, **College of Humanities**, SeoKyung University
 
 - **2010 ~ 2011**  
   🧠 **EBS JangHak Quiz Champion**

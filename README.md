@@ -29,7 +29,7 @@
 
 ## 💼 Work Experience
 
-- **2022 ~ 2023**  
+- **2021 ~ 2022**  
   🏨 responsible for operations and team supervision at **Yaja Hotel**,
 
 - **2019 ~ 2021**  

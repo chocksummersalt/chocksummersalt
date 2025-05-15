@@ -17,8 +17,8 @@
 ## 🎓 Education
 
 - **2014 ~ 2016, 2022 ~ 2024**  
-  🎨 Bachelor of Art in **Cultural Contents**, SuKyung University  
-  📚 Bachelor of Art in **Philosophy**, SuKyung University
+  🎨 Bachelor of Art in **Cultural Contents**, SeoKyung University  
+  📚 Bachelor of Art in **Philosophy**, SeoKyung University
 
 - **2025**  
   🤖 Completion of **Artificial Intelligence Software** Program  

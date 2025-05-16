@@ -17,14 +17,14 @@
 🎓 Education / 학력
 <br>2025
 - 🤖 Completion of Artificial Intelligence Software Program, Korea Polytechnics (Jungsu Campus)
-- 🤖 한국폴리텍 정수캠퍼스 인공지능소프트웨어과정 수료 예정
+-  한국폴리텍 정수캠퍼스 인공지능소프트웨어과정 수료 예정
 
 
 <br>2014 ~ 2015, 2022 ~ 2024
 - 🎨 Bachelor of Arts in Cultural Contents, SeoKyung University
-- 🎨 서경대학교 문화콘텐츠학과 학사
+-  서경대학교 문화콘텐츠학과 학사
 - 📚 Bachelor of Arts in Philosophy, SeoKyung University
-- 📚 서경대학교 철학과 학사
+-  서경대학교 철학과 학사
 
 
 

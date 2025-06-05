@@ -121,7 +121,7 @@
 ## 🏆 Contest
 ### 2025 | Future Tomorrow Work Experience Project
 **Organizer / 주최:** Ministry of Employment and Labor (고용 노동부)
-- automatic diary, emotion analysis mobile app development for prevent depression
+- 📗automatic diary, emotion analysis mobile app development for prevent depression
 - 미래내일일경험 프로젝트형 <b>우울증 예방을 위한 AI에이전트 기반 감정분석 자동일기 앱 개발</b>
 - Led the team as Team leader, Ideation, Planning, Work Distribution, Flutter(android/ios)
 - 팀장, 기획, 일정관리, 업무 분장, 프론트 개발(Flutter android/ios)

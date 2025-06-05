@@ -10,8 +10,10 @@
 ## 👀 About Me
 
 - 🙋 I want to be an **App Developer** from South Korea.  
-- 🔥 I aim to become a **Data Scientist**.  
-
+- 🔥 I aim to become a **Data Scientist**.
+- 안녕하세요. 저는 데이터 분석가를 꿈꾸는 조성민입니다.
+- 웹/모바일 어플리케이션 개발을 통해 사용자 데이터를 수집하고 사람의 행동패턴을 분석하여 마음의 구조를 밝히는 것이 목표입니다.
+- 이를 통해 업주에게는 ROI를 더욱 향상시키고, 이용자에게는 더욱 취향에 맞는 서비스를 제공하는 역할을 하고싶습니다.
 ---
 
 🎓 Education / 학력
@@ -116,8 +118,13 @@
 - 🏷️ Managed brand booth operations / 부스 운영  
 -  Supervised on-site personnel / 현장 인력 관리  
 
-
-
+## 🏆 Contest
+### 2025 | Future Tomorrow Work Experience Project
+**Organizer / 주최:** Ministry of Employment and Labor (고용 노동부)
+- automatic diary, emotion analysis mobile app development for prevent depression
+- 미래내일일경험 프로젝트형 <b>우울증 예방을 위한 AI에이전트 기반 감정분석 자동일기 앱 개발</b>
+- Led the team as Team leader, Ideation, Planning, Work Distribution, Flutter(android/ios)
+- 팀장, 기획, 일정관리, 업무 분장, 프론트 개발(Flutter android/ios)
 
 ## 🏃‍♂️ Personal Record
 
@@ -153,12 +160,20 @@
   ### Language
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-squaree&logo=mysql&logoColor=white">
+
+
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 
   ### Tool
 <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
+
+  ### FrameWork
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chocksummersalt)](https://github.com/chocksummersalt/github-readme-stats)
 

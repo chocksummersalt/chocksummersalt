@@ -10,7 +10,7 @@
 ## 👀 About Me
 
 - 🙋 I want to be an **App Developer** from South Korea.  
-- 🔥 I aim to become a **Data Scientist**.
+- 🔥 I aim to become a **Data analysist**.
 - 안녕하세요. 저는 데이터 분석가를 꿈꾸는 조성민입니다.
 - 웹/모바일 어플리케이션 개발을 통해 사용자 데이터를 수집하고 사람의 행동패턴을 분석하여 마음의 구조를 밝히는 것이 목표입니다.
 - 이를 통해 업주에게는 ROI를 더욱 향상시키고, 이용자에게는 더욱 취향에 맞는 서비스를 제공하는 역할을 하고싶습니다.

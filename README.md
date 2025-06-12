@@ -17,10 +17,6 @@
 ---
 
 🎓 Education / 학력
-<br>2025
-- 🤖 Completion of Artificial Intelligence Software Program, Korea Polytechnics (Jungsu Campus)
--  한국폴리텍 정수캠퍼스 인공지능소프트웨어과정 수료 예정
-
 
 <br>2014 ~ 2015, 2022 ~ 2024
 - 🎨 Bachelor of Arts in Cultural Contents, SeoKyung University
@@ -28,10 +24,19 @@
 - 📚 Bachelor of Arts in Philosophy, SeoKyung University
 -  서경대학교 철학과 학사
 
-
-
-
 ---
+## 🛠️ Skills and Certifications
+<br>2025
+- 🤖 Completion of Artificial Intelligence Software Program, Korea Polytechnics (Jungsu Campus)
+-  한국폴리텍 정수캠퍼스 인공지능소프트웨어과정 수료 예정
+-  ---
+
+- 💬 TOEIC 810
+- 토익 810
+- 🏺 Korean History Proficiency Test Level 2
+- 한국사능력검정평가 2급
+---
+
 
 ## 💼 Work Experience / 경력 사항
 
@@ -139,13 +144,7 @@
 / EBS 장학퀴즈 우승
 ---
 
-## 🛠️ Skills and Certifications
 
-- 💬 TOEIC 810
-- 토익 810
-- 🏺 Korean History Proficiency Test Level 2
-- 한국사능력검정평가 2급
----
   <br/> 
   <br/>
 

@@ -16,7 +16,7 @@
 - 이를 통해 업주에게는 ROI를 더욱 향상시키고, 이용자에게는 더욱 취향에 맞는 서비스를 제공하는 역할을 하고싶습니다.
 ---
 
-🎓 Education / 학력
+## 🎓 Education / 학력
 
 <br>2014 ~ 2015, 2022 ~ 2024
 - 🎨 Bachelor of Arts in Cultural Contents, SeoKyung University
